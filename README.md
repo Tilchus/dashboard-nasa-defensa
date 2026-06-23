@@ -2,7 +2,7 @@
 * **Carrera:** Tecnicatura en Ciencia de Datos e IA.
 * **Catedra:** Ciencia de datos.
 * **Profesor:** Bonavita Alejandro.
-Integrantes: Candela Molinas, Alejandra Bernasconi, Danilo Figueroa , Gerez Silvana, Luciana 
+* **Integrantes:** Candela Molinas, Alejandra Bernasconi, Danilo Figueroa , Gerez Silvana, Luciana. 
 Bienvenido al centro de monitoreo táctico. Esta aplicación web interactiva está desarrollada sobre **R Shiny** y utiliza la infraestructura de datos abiertos de la **NASA** para auditar, visualizar y analizar las amenazas espaciales en tiempo real.
 
 ### ⚡ Características Principales:
